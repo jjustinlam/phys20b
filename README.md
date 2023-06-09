@@ -5,6 +5,7 @@ This GitHub repository contains a comprehensive codebase that allows you to crea
 
 Class Objects
 Balls: These objects represent planets within the universe. Each ball encapsulates the essential properties of a planet, such as its mass, position, velocity, and gravitational interaction with other celestial bodies. By simulating the motion and gravitational forces acting on these balls, you can observe how planets orbit and interact within the universe.
+
 Blackholes: These objects represent supermassive black holes, which are incredibly dense and possess immense gravitational pull. The simulation accurately models the gravitational effects of black holes on nearby celestial objects. Witness the captivating dance of planets as they orbit around these gravitational powerhouses.
 
 Floaters: Floaters are spaceships that traverse through the vast expanse of the universe. These objects can be controlled interactively, allowing you to explore the simulated universe from a unique perspective. Experience the thrill of navigating through asteroid belts, discovering new planets, and witnessing cosmic phenomena up close.
