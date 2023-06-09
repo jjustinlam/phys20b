@@ -3,7 +3,9 @@ Space simulation for Physics 20B final project
 Universe Simulation
 This GitHub repository contains a comprehensive codebase that allows you to create a mesmerizing simulation of the universe. By utilizing object-oriented programming principles, this simulation provides an immersive experience by representing various celestial bodies and phenomena accurately. Whether you are an astronomy enthusiast, a physics student, or simply curious about the wonders of the cosmos, this simulation will captivate your imagination.
 
+
 Class Objects
+
 Balls: These objects represent planets within the universe. Each ball encapsulates the essential properties of a planet, such as its mass, position, velocity, and gravitational interaction with other celestial bodies. By simulating the motion and gravitational forces acting on these balls, you can observe how planets orbit and interact within the universe.
 
 Blackholes: These objects represent supermassive black holes, which are incredibly dense and possess immense gravitational pull. The simulation accurately models the gravitational effects of black holes on nearby celestial objects. Witness the captivating dance of planets as they orbit around these gravitational powerhouses.
